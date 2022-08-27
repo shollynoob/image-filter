@@ -25,9 +25,6 @@ Test on Postman
 
 
 
-
-
-## ME
 Github Repo : https://github.com/shollynoob/image-filter
 
 Elastic Beanstack Endpoint :  http://udagram-sola-dev-dev.us-east-1.elasticbeanstalk.com/
