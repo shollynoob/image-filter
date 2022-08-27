@@ -18,3 +18,6 @@ Runnung `eb create`
 Elastic Beanstalk Deployed
 ![image](https://user-images.githubusercontent.com/5302985/187049214-1a6c23c5-2b89-40c1-b22a-51d87b6292af.png)
 
+
+Test on Postman
+![image](https://user-images.githubusercontent.com/5302985/187050303-fa0be19f-bef4-428c-bdb6-3a0c3f1951c8.png)
