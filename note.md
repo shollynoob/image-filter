@@ -14,3 +14,7 @@ Register eb cli to enviromental varible using `%USERPROFILE%\AppData\roaming\Pyt
 
 Runnung `eb create`
 ![image](https://user-images.githubusercontent.com/5302985/187049071-52534f75-a1ca-47f5-b2a5-242b28b9f266.png)
+
+Elastic Beanstalk Deployed
+![image](https://user-images.githubusercontent.com/5302985/187049214-1a6c23c5-2b89-40c1-b22a-51d87b6292af.png)
+
