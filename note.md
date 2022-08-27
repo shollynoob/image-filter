@@ -30,23 +30,9 @@ Test on Postman
 ## ME
 Github Repo : https://github.com/shollynoob/image-filter
 
-Endpoint :  http://udagram-sola-dev-dev.us-east-1.elasticbeanstalk.com/
-http://udagram-sola-dev-dev.us-east-1.elasticbeanstalk.com/
+Elastic Beanstack Endpoint :  http://udagram-sola-dev-dev.us-east-1.elasticbeanstalk.com/
 
 
 Test Image Url : https://cdn.vanguardngr.com/wp-content/uploads/2021/09/Naira-appreciates-1200x720-1-1024x614.jpg
-
-
-
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
-
-
-
-http://udagram-sola-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
-https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
-
 
 http://udagram-sola-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.vanguardngr.com/wp-content/uploads/2021/09/Naira-appreciates-1200x720-1-1024x614.jpg
